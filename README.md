@@ -11,3 +11,7 @@
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/8.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/9.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/10.gif)
+
+## Visual Comparison with other virtual try-on methods
+
+![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/visual_comparison.gif)
