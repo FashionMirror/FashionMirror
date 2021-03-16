@@ -11,4 +11,3 @@
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/9.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/10.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/11.gif)
-![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/4.gif)
