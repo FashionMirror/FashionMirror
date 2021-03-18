@@ -15,3 +15,7 @@
 ## Visual comparison with other virtual try-on methods
 
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/visual_comparison.gif)
+
+### Baselines
+[CPVTON] Bochao Wang, Huabin Zheng, Xiaodan Liang, Yimin Chen, Liang Lin, and Meng Yang. Toward characteristicpreserving
+image-based virtual try-on network. In European Conference on Computer Vision (ECCV), 2018.
