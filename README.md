@@ -1,5 +1,5 @@
 
-# FashionMirror: Mask-efficient Feature-flow Virtual Try-on with Sequential Template Poses
+# FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses
 
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/1.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/2.gif)
