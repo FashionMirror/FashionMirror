@@ -12,7 +12,7 @@
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/9.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/10.gif)
 
-## Visual comparison with other virtual try-on methods
+## Visual comparison with state-of-the-art virtual try-on methods
 
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/visual_comparison.gif)
 
@@ -28,3 +28,5 @@
 [VTNCAP] Na Zheng, Xuemeng Song, Zhaozheng Chen, Linmei Hu, Da Cao, and Liqiang Nie. Virtually trying on new clothing with arbitrary poses. In Proceedings of the 27th ACM International Conference on Multimedia (ACM MM), 2019.
 
 [FWGAN] Haoye Dong, Xiaodan Liang, Xiaohui Shen, Bowen Wu, Bing-Cheng Chen, and Jian Yin. FW-GAN: Flow-navigated warping gan for video virtual try-on. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2019.
+
+[FashionMirror] Ours
