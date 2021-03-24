@@ -21,7 +21,7 @@
 
 ## Our virtual try-on results
 
-We compare our try-on results with the most relevant previous work (FWGAN). The following cases show that our novel designed model synthesizes sequential try-on results containing more detailed information (e.g., human information and clothing color) and correct clothing shape than FWGAN.
+We compare our try-on results with the most relevant previous work (FWGAN). The following cases show that our novel designed model, FashionMirror, synthesizes sequential try-on results correctly changing the clothing type and containing more detailed information (e.g., human face and clothing color) than FWGAN.
 
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/11.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/12.gif)
