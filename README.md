@@ -1,3 +1,7 @@
+## Visual comparison with state-of-the-art virtual try-on methods
+
+![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/visual_comparison.gif)
+
 
 # FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses
 
@@ -12,7 +16,5 @@
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/9.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/10.gif)
 
-## Visual comparison with state-of-the-art virtual try-on methods
 
-![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/visual_comparison.gif)
 
