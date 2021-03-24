@@ -21,6 +21,8 @@
 
 ## Our virtual try-on results
 
+We compare our try-on results with the most relevant previous work (FWGAN). All of the following cases show that we achieve more detailed information than FWGAN.
+
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/11.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/12.gif)
 ![image](https://github.com/FashionMirror/FashionMirror/blob/main/Try-on%20results/13.gif)
